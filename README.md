@@ -1,10 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Martins! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pexiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Sou um **Desenvolvedor Java** apaixonado por construir backends robustos, escaláveis e por boas práticas de arquitetura de software. 
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedro-martins-faria/)
+Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema **Spring** e em arquitetura de microsserviços.
 
+---
 
+### 🛠️ Tech Stack
+
+**Linguagens e Frameworks:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Banco de Dados e Ferramentas:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO_DO_GITHUB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 <!--
 **Pexiz/Pexiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
