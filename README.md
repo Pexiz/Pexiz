@@ -32,8 +32,8 @@ Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema **Sprin
 
 ### 📫 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-martins-faria/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p.pecoo78@gmail.com)
 
 <!--
 **Pexiz/Pexiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
